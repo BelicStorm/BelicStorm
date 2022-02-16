@@ -40,7 +40,10 @@
 ![express](https://img.shields.io/badge/Express-339999?style=for-the-badge&logo=Express&logoColor=white)
 ![ApolloGraphQL](https://img.shields.io/badge/ApolloGraphQL-311C87?style=for-the-badge&logo=ApolloGraphQL&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-
+![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### Deploy
 
