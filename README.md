@@ -4,7 +4,7 @@
 
 🎓 Soy Cristian Pardo,**Full Stack Developer** (especializado en **Aplicaciones basadas en JavaScript**).
 
-👨‍💻 Disfruto digitalizando conceptos y abriendo las puertas de internet a pequeñas empresas o personas.  Me encanta aprender nuevas tecnologias.En 2021 aprendí **Next.js**, **Go** y **GraphQL**.
+👨‍💻 Disfruto digitalizando conceptos y abriendo las puertas de internet a pequeñas empresas o personas.  Me encanta aprender nuevas tecnologias.
 
 🎸 Fuera del mundo de la tecnología tambien disfruto de mis otras habilidades. Mis hobbies van desde el **modelismo**, **crear juegos de mesa** y **escribir fantasia y ciencia ficcion**.
 
